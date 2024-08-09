@@ -1,16 +1,11 @@
-# coin_ticker
+# COIN TICKER
 
-Coin Ticker is a straightforward app that provides real-time exchange rates for cryptocurrencies to fiat currencies. Users can easily track the value of their favorite crypto coins, stay updated with the latest market trends, and make informed decisions with accurate and timely data.
+a simple straightforward app that provides real-time exchange rates for cryptocurrencies to fiat currencies. Users can easily track the value of their favorite crypto coins, for both Android or IOS. Developed via Flutter framework.
 
-## Getting Started
+## About this app
+The Coin Tracker App supports real-time exchange rates for the top 20 cryptocurrencies.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/7b4a60aa-d45a-4d95-91e9-eee15db568f5" alt="Image 1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/58bbabf2-f3a7-4e4b-9380-7d5d402f0492" alt="Image 2" width="30%" />
+</div>!
